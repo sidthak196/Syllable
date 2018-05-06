@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FlashMeets</string>
+    <string name="title_activity_video">VideoMeets</string>
+    <string name="action_settings">Settings</string>
+</resources>
